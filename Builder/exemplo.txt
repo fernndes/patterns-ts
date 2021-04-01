@@ -1,0 +1,1 @@
+Exemplo: Loja que vende cada item de uma refeição separadamente: Arroz, Feijão, Salada, Carne. 
